@@ -25,7 +25,6 @@ import tabBar from 'Components/TabBar/subscriptions';
 import viewport from 'Components/Viewport/subscriptions';
 import coupon from 'Pages/Cart/components/CouponField/subscriptions';
 import browse from 'Pages/Browse/subscriptions';
-import category from 'Pages/Category/subscriptions';
 import favorites from 'Pages/Favorites/subscriptions';
 import filter from 'Pages/Filter/subscriptions';
 import login from 'Pages/Login/subscriptions';
@@ -71,7 +70,6 @@ const subscriptions = [
   tabBar,
   viewport,
   browse,
-  category,
   coupon,
   favorites,
   filter,
